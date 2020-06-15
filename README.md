@@ -20,4 +20,7 @@ The simulation might take several minutes to run, depending on the parameters of
 ## Disclaimer
 This is to be considered prototype code that has escaped from the laboratory. Use this code at your own risk.
 
-If you use this code, please cite the paper [COVID-19 and Global Economic Growth: Policy Simulations with a Pandemic-Enabled Neoclassical Growth Model](https://arxiv.org/abs/2005.13722).
+If you use this code, please cite the paper [COVID-19 and Global Economic Growth: Policy Simulations with a Pandemic-Enabled Neoclassical Growth Model](https://arxiv.org/abs/2005.13722):
+```
+Trotter, I.M., Schmidt, L.A., Pinto, B., Batista, A.L., Pellenz, J., Isidro, M., Rodrigues, A., Suela, A.G. and Rodrigues, L., 2020. COVID-19 and Global Economic Growth: Policy Simulations with a Pandemic-Enabled Neoclassical Growth Model. arXiv preprint arXiv:2005.13722.
+```
