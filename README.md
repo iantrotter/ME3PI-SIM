@@ -18,7 +18,7 @@ $ python ME3PI-SIM.py configuration_file.json
 The simulation might take several minutes to run, depending on the parameters of the simulation. The output will be written to the output file (a Pickle of a Pandas dataframe, and an Excel spreadsheet with the same data) specified in the configuration file.
 
 ## Disclaimer
-This is to be considered prototype code that has escaped from the laboratory. Use this code at your own risk.
+This is to be considered prototype code that has escaped from the laboratory. The code may be freely used for non-commercial purposes -- to use the code for any other purpose, please contact us. Use this code at your own risk.
 
 If you use this code, please cite the paper [COVID-19 and Global Economic Growth: Policy Simulations with a Pandemic-Enabled Neoclassical Growth Model](https://arxiv.org/abs/2005.13722):
 
